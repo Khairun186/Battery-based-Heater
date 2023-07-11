@@ -1,2 +1,1 @@
-Battery-based-Heater
-attery-based-Heater-on-Falstad-simulator 
+Battery-based-Heater on-Falstad-simulator 
